@@ -1,5 +1,4 @@
 # Competition - Magento 2
-Allows you to create/manage unlimited your own competitions. Collect a huge amount of email addresses
  <div class="product-descr" itemprop="description"><p><a title="Competition - Magento 2 extension" href="https://www.polacin.com/competition.html">Competition - Magento 2</a> extension allows you to create/manage unlimited your own competitions. Collect a huge amount of email addresses and improve the relationship between you and your customers Create/Manage unlimited competitions</p>
 <h2>Feature highlights of Competition - Magento 2</h2>
 <ul>
