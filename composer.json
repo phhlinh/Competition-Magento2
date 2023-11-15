@@ -14,7 +14,7 @@
     {
       "name": "Linh",
       "email": "sales@polacin.com",
-      "homepage": "http://www.polacin.com/",
+      "homepage": "https://www.polacin.com/",
       "role": "Developer"
     }
   ],
@@ -23,7 +23,7 @@
       "registration.php"
     ],
     "psr-4": {
-      "Polacin\\Competition\\": ""
+      "PL\\Competition\\": ""
     }
   }
 }
